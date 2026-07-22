@@ -1,1 +1,0 @@
-//saves software configuration settings like wifi etc
